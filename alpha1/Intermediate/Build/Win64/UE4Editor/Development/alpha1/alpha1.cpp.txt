@@ -1,2 +1,0 @@
-D:\unreal projects\alpha1\Intermediate\Build\Win64\UE4Editor\Development\alpha1\Definitions.alpha1.h
-D:\unreal projects\alpha1\Source\alpha1\alpha1.h
